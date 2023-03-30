@@ -79,6 +79,7 @@
     </Publisher>
     <RootComponents>
       <RootComponent type="300" schemaName="grcol_samplecanvas_cc4af" behavior="0" />
+      <RootComponent type="62" schemaName="grcol_SAmpleMDA" behavior="0" />
     </RootComponents>
     <MissingDependencies />
   </SolutionManifest>
